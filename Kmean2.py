@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 
 c_data_path = r"D:\SUM25\CPV\code_in_class\lab4\data\Busy\1"
-
+## you change your address hear ....
 
 # cong tong tung kenh cua tat ca cac diem anh trong anh
 def get_feature(img):
